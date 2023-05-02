@@ -21,7 +21,7 @@
         <RWKV>
             <property>
                 <name>Path</name>
-                <value>model/RWKV-4-Raven-7B-v11.pth</value>
+                <value>model/RWKV-4-Raven-7B-v7-ChnEng-20230404-ctx2048.pth</value>
                 <description>rwkv模型位置</description>
             </property>
             <property>
@@ -38,7 +38,7 @@
         <GLM6B>
             <property>
                 <name>Path</name>
-                <value>model/chatglm-6b-int8</value>
+                <value>model/chatglm-6b</value>
                 <description>glm模型位置</description>
             </property>
             <property>
